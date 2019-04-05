@@ -1,6 +1,8 @@
 # MoodTube
 Discover the music your face wants to hear
 
+Upload an image of your face to listen to a playlist that caters to your current mood!
+
 <img alt="moodtube-logo" src="./assets/images/moodtube.png" width="200" height="200">
 
 Give it a try: http://hliang.github.com/MoodTube
