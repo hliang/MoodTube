@@ -5,7 +5,7 @@ Upload an image of your face to listen to a playlist that caters to your current
 
 <img alt="moodtube-logo" src="./assets/images/moodtube.png" width="200" height="200">
 
-Give it a try: http://hliang.github.com/MoodTube
+Give it a try: https://hliang.github.io/MoodTube/
 
 ## What Problem Does MoodTube Solve?
 - Music lovers are always trying to find innovative ways to discover new music they’ll enjoy.
